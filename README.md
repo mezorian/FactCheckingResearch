@@ -1,2 +1,2 @@
 # FakeNewsResearch
-A repository to put all research on fake-news into
+A repository to put all researches on fake-news into
