@@ -1,10 +1,28 @@
 # Behauptung 1: Es gibt keine erhöhte Übersterblichkeit in Deutschland 2020
 **Abschnitt im Video:** 13:23 - 25:00
 
-**Unsere Beurteilung:** TODO
+**Unsere Beurteilung:** Falsch
 
-Bis Minute 25 hat er (vorausgesetzt, die Zahlen die er zeigt stimmen) recht.
- -> Die Sterblichkeit IN DEUTSCHLAND ist nicht höher als sonst (vermutlich weil die Maßnahmen in Deutschland erfolgreich waren)
+![link broken](pics/Sterbefallzahlen_Gesamtuebersicht.png)
+![link broken](pics/Sterbefallzahlen_Gesamtuebersicht_klein.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_alle_Altersgruppen.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_0_30_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_30_35_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_35_40_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_40_45_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_45_50_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_50_55_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_55_60_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_60_65_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_65_70_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_70_75_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_75_80_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_80_85_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_85_90_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_90_95_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_95_und_mehr_Jahre.png)
+
+
 
 **Quellen**:
  - https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/Tabellen/sonderauswertung-sterbefaelle.html;jsessionid=C57A8AA251F2B455171363AB572FC354.live722?nn=209016
