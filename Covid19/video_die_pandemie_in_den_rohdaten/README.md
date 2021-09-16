@@ -141,11 +141,14 @@ Laut der Studie "Estimating the effects of non-pharmaceutical interventions on C
 **Unsere Beurteilung:** TODO
 
 
+
  Der gute Herr Tom Lausen, wurde als Sachverständiger von der AFD beauftragt, nur mal so am Rande ;)
 
 **Quellen:**
  - https://www.bundestag.de/resource/blob/850806/7bd14581e33890e68fe7d57ee67d4cbf/19_14-2_13-2-_ESV-Tom-Lausen-_Langfriste-Konsequenzen-data.pdf
  - https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Intensivregister.html
+ - Link zum Original-Video : https://www.bitchute.com/video/oqUtg6oPJBU/
+ - Mehr Videos von ExoMagazinTV : https://www.bitchute.com/exomagazintv/
 
 # Behauptung 5:
 **Abschnitt im Video:** - 59:30
@@ -267,6 +270,12 @@ Regeln und Anforderungen an PCR Tests : z.B. vom RKI
 
 unprofessionell vorher alles auf die Gold-Waage zu legen und dann anschließend Daten zu präsentieren die er noch nicht mal geprüft hat.
 
+**Quellen:**
+ - https://dpa-factchecking.com/germany/210614-99-988939/
+ - https://correctiv.org/faktencheck/2021/04/16/meldungen-in-der-ema-datenbank-sind-keine-bestaetigten-nebenwirkungen-oder-todesfaelle-durch-covid-19-impfungen/
+ - TODO Evtl. Wochebericht, der zeigen sollte dass 94 % der Corona-Fälle auf deutschen Intensivstationen sind Ungeimpfte.
+ - https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/sicherheitsberichte/sicherheitsbericht-27-12-bis-31-07-21.pdf?__blob=publicationFile&v=5#page13 Paul-Erlich-Institut : Verdachtsfälle von Nebenwirkungen und Impfkomplikationen nach Impfung zum Schutz vor COVID-19 seit Beginn der Impfkampagne am 27.12.2020 bis zum 31.07.2021
+
 # Behauptung 9:
 **Abschnitt im Video:** 1:09:
 
@@ -277,6 +286,10 @@ Berechnung falsch! Man kann nicht einfach den einen Prozent Wert von dem anderen
 Wenn er so rechnet, kann er nicht sagen, dass durch die Anzahl der Infektion durch die Impfung um 80 Prozent gesenkt wird. In wirklichkeit wird sie um 80 Prozentpunkte gesenkt. Das ist ein großer und wichtiger Unterschied. Möchte man wirklich Berechnen um wie viel Prozent die Anzahl der Infektionen sinkt muss man annehmen, dass in der Vergleichsgruppe genauso viele Infektionen stattfinden wie in der geimpften Gruppe. Die Anzahl dieser Infektionen muss man als 100 Prozen annehmen und dann berechnen wie viel Prozent davon in der geimpften Gruppe infiziert sind. Hierbei kommt man laut 100/0,838%*0,045 auf 5,36%. Das bedeutet, dass sich in der geimpften Gruppe 94,63% weniger Personen infizieren als in der nicht geimpften. Die Zahlen in der Studie sind somit korrekt.
 
 Eigene Meinung : Anders als er sagt, ist es nicht relevant wie viele Personen sich nicht anstecken, weil das hängt nicht von dem Impfstoff sondern von den Randbedingungen wie Bevölkerungsdichte, Hygiene-Standards, Corona-Schutz-maßnahmen
+
+Beispiel warum die Rechenweise unsinning leistet "Niemand würde anzweifeln, dass Sicherheitsgurte im Auto Tausende Leben retten. Schaut man sich aber eine gleich große Gruppe von Autofahrern mit und eine ohne Sicherheitsgurte über einen Zeitraum von 12 Wochen an, stellt man am Ende fest, dass in beiden Gruppen ziemlich viele Leute nicht an Autounfällen gestorben sind.
+
+Die Zahlen dürften etwa gleich groß sein, in der Gruppe mit Gurt nur geringfügig höher. Diese Zahl zu vergleichen ist aber sinnlos. Wir wollen vergleichen, wie viele nun ohne Gurt GESTORBEN sind und wie viele Todesopfer das über einen längeren Zeitraum nun verringert, hier sind die Unterschiede ohne Zweifel immens groß." Quelle : https://www.volksverpetzer.de/corona-faktencheck/pandemie-in-den-rohdaten/
 
 **Quellen:**
  - wie berechnet man die Impfstoffwirksamkeit : https://de.wikipedia.org/wiki/Impfstoffwirksamkeit
