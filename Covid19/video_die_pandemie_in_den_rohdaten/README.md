@@ -105,9 +105,13 @@ Laut der Studie "The lockdown effect: A counterfactual for Sweden" geht man davo
 
 Laut der Studie "Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset" gab es in Ländern mit hohen Kontaktbeschränkungen teilweise sogar eine reduzierte Sterblichkeit im Vergleich zu den Vorjahren, was der Studie darauf zurückzuführen sei, dass es durch den reduzierten Kontakt auch weniger Influenza / Grippe Tote gab. So wurde beispielsweise. Im Gegensatz dazu kann in Ländern in denen Corona sehr stark ausgebrochen ist eine Übersterblichkeit von mehr als 50% gemessen werden.
 
+Laut der Studie "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe" die den Effekt von Lockdowns auf die Veränderung der Infektions - und Sterberaten untersucht, kommt man zu dem Schluss dass in Deutschland ohne Kontaktbeschränkungen allein in der "ersten Welle" zu einer Wahrscheinlichkeit von 95% zwischen 370.000 und 770.000 mehr Menschen gestorben wären.
+
 
 **Quelle:**  
  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249732
+ - https://www.nature.com/articles/s41586-020-2405-7#Abs1
+ - https://www.nature.com/articles/s41586-020-2405-7/tables/2
  - https://elifesciences.org/articles/69336
  - https://www.aerzteblatt.de/nachrichten/119371/Schweden-meldet-hoechste-Zahl-an-Todesfaellen-seit-Spanischer-Grippe
  - https://www.deutschlandfunk.de/corona-pandemie-in-schweden-die-strategie-der-regierung-in.676.de.html?dram:article_id=497067
