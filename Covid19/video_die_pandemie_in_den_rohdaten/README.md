@@ -5,22 +5,22 @@
 
 ![link broken](pics/Sterbefallzahlen_Gesamtuebersicht.png)
 ![link broken](pics/Sterbefallzahlen_Gesamtuebersicht_klein.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_alle_Altersgruppen.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_0_30_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_30_35_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_35_40_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_40_45_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_45_50_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_50_55_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_55_60_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_60_65_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_65_70_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_70_75_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_75_80_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_80_85_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_85_90_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_90_95_Jahre.png)
-![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_Altersklasse_95_und_mehr_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_alle_Altersgruppen.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_0_30_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_30_35_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_35_40_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_40_45_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_45_50_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_50_55_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_55_60_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_60_65_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_65_70_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_70_75_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_75_80_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_80_85_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_85_90_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_90_95_Jahre.png)
+![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_95_und_mehr_Jahre.png)
 
 
 
@@ -158,7 +158,7 @@ Laut der Studie "Estimating the effects of non-pharmaceutical interventions on C
 
 **Unsere Beurteilung:** TODO
 
-
+Glaubwürdigkeit des Videos bekommt ein 6. ExoMagazinTV -> Verschwörungstheorien, Ufos, Aliens, Mensch von Aliens geschaffen. angeblich in der Bibel beschrieben
 
  Der gute Herr Tom Lausen, wurde als Sachverständiger von der AFD beauftragt, nur mal so am Rande ;)
 
@@ -167,6 +167,7 @@ Laut der Studie "Estimating the effects of non-pharmaceutical interventions on C
  - https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Intensivregister.html
  - Link zum Original-Video : https://www.bitchute.com/video/oqUtg6oPJBU/
  - Mehr Videos von ExoMagazinTV : https://www.bitchute.com/exomagazintv/
+ - Amüsantes Video auf bitchute darüber, dass die Pyramiden von den Außerirdischen gebaut wurden und die Menschheit von den Aliens als ableger ihrer Gattung geschaffen wurden : https://www.bitchute.com/video/q5TWHC0dAc1B/
 
 # Behauptung 5:
 **Abschnitt im Video:** - 59:30
