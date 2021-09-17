@@ -125,12 +125,30 @@ Laut der Studie "Tracking excess mortality across countries during the COVID-19 
 
 Laut der Studie "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe" die den Effekt von Lockdowns auf die Veränderung der Infektions - und Sterberaten untersucht, kommt man zu dem Schluss dass in Deutschland ohne Kontaktbeschränkungen allein in der "ersten Welle" zu einer Wahrscheinlichkeit von 95% zwischen 370.000 und 770.000 mehr Menschen gestorben wären.
 
+Die Übersterblichkeit in Schweden im Vergleich zu anderen Skandinavischen Ländern kann beispielsweise sehr gut in der Human Mortality Database untersucht werden. 
+
+![link broken](pics/Human_Mortality_Database_Sweden_2020.png)
+![link broken](pics/Human_Mortality_Database_Sweden_2021.png)
+![link broken](pics/Human_Mortality_Database_Denmark_2020.png)
+![link broken](pics/Human_Mortality_Database_Denmark_2021.png)
+![link broken](pics/Human_Mortality_Database_Finland_2020.png)
+![link broken](pics/Human_Mortality_Database_Finland_2021.png)
+![link broken](pics/Human_Mortality_Database_Norway_2020.png)
+![link broken](pics/Human_Mortality_Database_Norway_2021.png)
+Zum Vergleich die gleiche Grafik für das sehr stark von Corona getroffene Land Chile.
+![link broken](pics/Human_Mortality_Database_Chile_2020.png)
+![link broken](pics/Human_Mortality_Database_Chile_2021.png)
+
+Die Sterblichkeit in Deutschland wurde ja bereits zuvor bei Behauptung 1 analysiert um hier jedoch eine Vergleichbarkeit herzustellen sind im folgenden auch noch einmal die gleiche Grafiken für Deutschland dargestellt:
+![link broken](pics/Human_Mortality_Database_Germany_2020.png)
+![link broken](pics/Human_Mortality_Database_Germany_2021.png)
 
 **Quelle:**  
  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249732
  - https://www.nature.com/articles/s41586-020-2405-7#Abs1
  - https://www.nature.com/articles/s41586-020-2405-7/tables/2
  - https://elifesciences.org/articles/69336
+ - Human Mortality Database https://mpidr.shinyapps.io/stmortality/
  - https://www.aerzteblatt.de/nachrichten/119371/Schweden-meldet-hoechste-Zahl-an-Todesfaellen-seit-Spanischer-Grippe
  - https://www.deutschlandfunk.de/corona-pandemie-in-schweden-die-strategie-der-regierung-in.676.de.html?dram:article_id=497067
  - https://www.quarks.de/podcast/science-cops-mythos-schweden-alles-besser-im-corona-paradies/
