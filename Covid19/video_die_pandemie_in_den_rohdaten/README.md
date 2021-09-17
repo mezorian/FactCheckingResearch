@@ -1,11 +1,71 @@
 # Behauptung 1: Es gibt keine erhöhte Übersterblichkeit in Deutschland 2020
 **Abschnitt im Video:** 13:23 - 25:00
 
-**Unsere Beurteilung:** Falsch
+**Unsere Beurteilung:** Größtenteils Falsch / Richtige Zahlen falsch interpretiert
 
-![link broken](pics/Sterbefallzahlen_Gesamtuebersicht.png)
-![link broken](pics/Sterbefallzahlen_Gesamtuebersicht_klein.png)
-![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_alle_Altersgruppen.png)
+Im ersten Teil des Videos kommt Marcel Barz zu dem Schluss, dass in den Sterbefall-Zahlen Deutschlands der letzten Jahre keine Corona-Pandemie zu erkennen ist. Allein, ohne sich die Zahlen genauer anzugucken, könnte man sich die Frage gestellen was die Sterbefall-Zahlen Deutschlands für eine Aussagekraft darüber haben, ob eine Weltweite Pandemie existiert oder nicht. Deutschland ist ein kleines Land, das eines der reichsten und fortschrittlichsten Länder der Welt ist. Verglichen mit ärmeren Ländern gibt es in Deutschland eine gute medizinische Versorgung und ein Sozial-System bzw. staatliche Sonderreglungen die Kurzarbeit ermöglichten und Gewinn-Ausfälle zumindest teilweise durch Hilfs-Zahlungen ausglichen. Solche sozialen Leistungen sind gerade in ärmeren Ländern nicht vorhanden gewesen. Das führte dazu, dass es hier nicht möglich war effektive Lockdowns durchzuführen und sich die Menschen erstens deutlich mehr anstecken konnten und zweitens, falls sich denn den Gang ins Krankenhaus überhaupt leisten konnten, in der meist deutlich schlechtere medizinischen Versorgung auch deutlich geringere Überlebenschancen hatten.
+
+Möchte man anhand von Sterbefallzahlen beurteilen ob eine Pandemie existiert oder nicht, sollte man sich daher auch Ländern anschauen in denen die gemeldeten Corona-Sterbefallzahlen deutlich höher waren als in dem erste Welt Land Deutschland. Hierzu ist es hilfreich sich die Aufstellung im "Coronavirus-excess-deaths-tracker" anzuschauen https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker .
+
+![link broken](pics/Coronavirus_excess_deaths_tracker.png)
+
+Ärmere Länder wie beispielsweise Peru, Ecuador, Bolivien, Paraguay, Azerbaijan, Kolumbien melden für manche Wochen der Jahre 2020 und 2021 Sterbefallzahlen die 100% bis teilweise knapp 300% über den zu erwarteten Sterbefallzahlen liegen. Aber auch in mitteleuropäischen Ländern wie beispielsweise Polen, Tschechien und Spanien starben in manchen Wochen 100% mehr Menschen als für die entsprechende Zeit im Jahr zu erwarten gewesen wäre. Hätte Barz sich auch Sterbefallzahlen solcher Länder angeguckt, wäre er vermutlich zu einem anderen Ergebnis gekommen.
+
+Unabhängig von diesen generellen Fragen seiner Herangehensweise an das Thema, sollte allerdings auch seine Vorgehensweise und seine Ergebnisse mit den deutschen Sterbefallzahlen analysiert werden.
+
+Zu Beginn seiner Argumentation erklärt er wie er die Zahlen aufbereitet hat um zu zuverlässigen Ergebnissen zu kommen. Hierbei stellt er heraus, dass man nicht einfach die Zahlen eines Jahres mit denen eines anderen Jahres vergleichen könne, da man Bevölkerungswachstum, demographischer Wandel, Änderung der Lebenserwartung und mögliche Schalttage eines Schaltjahres berücksichtigen müsse. Daraufhin erläutert er, dass man außerdem Altersgruppen bilden müsse, da sich die Sterbefallzahlen in unterschiedlichen Altersgruppen unterschiedlich schnell verändern könnten.
+Leider erwähnt Barz hierbei nicht, dass alle diese Dinge in üblichen wissenschaftlichen Auswertungen wei beispielsweise vom Statistischen Bundesamt oder dem Max-Plank-Institut bereits berücksichtigt werden. Beispielsweise ist die öffentlich zugängliche Tabelle des statistischen Bundesamtes bereits in insgesamt 15 Altersgruppen untergliedert. Wie beispielsweise in der Pressemitteilungen https://www.destatis.de/DE/Presse/Pressemitteilungen/2021/02/PD21_069_12621.html des statistischen Bundesamtes ersichtlich ist, gehen ihre Auswertungen weit über das Zählen reiner rohen Meldedaten (wie in seiner Tabelle) hinaus. Es werden mit Hochrechnungsverfahren zu erwartende Sterbezahlen prognostiziert um Unterschiede im Meldeverhalten der Standesämter auszugleichen. Außerdem werden Plausibilisierungen und Vollständigkeitskontrollen der Meldedaten durchgeführt. Zur Berücksichtigung von Bevölkerungsalterung erklärt Dmitri A. Jdanov vom Max-Planck-Institut für demografische Forschung in einem Interview mit Correctiv (https://correctiv.org/faktencheck/2021/03/02/keine-uebersterblichkeit-2020-samuel-eckerts-berechnungen-sind-laut-statistischem-bundesamt-methodisch-unzulaessig/) dass diese in Sterbefall-Auswertungen berücksichtigt werden können in denen man sie einfach auf Grundlage historischer Veränderungen vorhersagt.  
+
+Darüberhinaus macht Barz einen weiteren methodischen Fehler. Er rechnet ausschließlich in Jahres-Gesamtwerten und betrachtet keine einzelnen Sterbefall-Zahlen pro Kalender-Woche oder zumindest pro Monat.
+Ob es sich hierbei um einen Fehler oder um eine gezielte Vorgehensweise  handelt kann nicht abschließend gesagt werden. Jedoch sollte an dieser Stelle gesagt werden, dass der gleiche Fehler bereits bei anderen Corona-Leugner und sogenannten Querdenkern praktiziert wurde um zu der Fehlinterpretation zu gelangen es gebe keine durch Corona verursachte Übersterblichkeit.
+Wie beispielsweise hier : https://correctiv.org/faktencheck/2021/03/02/keine-uebersterblichkeit-2020-samuel-eckerts-berechnungen-sind-laut-statistischem-bundesamt-methodisch-unzulaessig/ dargelegt wird, ist die Betrachtung von Sterbefallzahlen in Jahres-Gesamtwerten nicht sinnvoll. Da Sterbefallzahlen zu unterschiedlichen Zeiten des Jahres sehr unterschiedlich ausgeprägt sind, schwanken sie betrachtet auf einzelne Wochen oder Monate teilweise sehr stark, betrachtet auf ein ganzes Jahr sind die Schwankungen allerdings sehr gering. Das wird sehr gut deutlich wenn man sich die wöchentlichen Sterbefall-Zahlen der letzten Jahre anschaut. Um dies darzustellen, habe ich die Zahlen des statistischen Bundesamts in Grafiken zusammengefasst, sie werden im folgenden dargestellt.
+Barz sagt wörtlich in seinem Video "2020 war ein völlig unauffälliges Jahr was die Sterblichkeit angeht. In keiner Altersgruppe war die sterblichkeit unauffällig Hoch in 2020."
+In den unten gezeigten Grafiken sehen wir das genaue Gegenteil.
+Selbst wenn man alle Altersgruppen zusammenfasst, erkennt man außergewöhnlich hohe Sterbefallzahlen zum Ende des Jahres 2020 und zu Beginn des Jahres 2021. Ähnlich hohe Zahlen sieht man lediglich im Frühjahr 2018 in dem Jahr mit der höchste Zahl an Grippetoten in den vergangenen 30 Jahren.
+
+![link broken](pics/Sterbefallzahlen_nach_Kallenderwoche_alle_Altersgruppen.png)
+
+
+Allein diese Darstellung wäre ausreichend um die Behauptung Barz zu wiederlegen.
+Schaut man sich nun jedoch die Sterbefall-Zahlen gegliedert nach Altersgruppen an, wird noch deutlicher, dass es besonders in hohen Altersgruppen zu einer deutlichen Übersterblichkeit gekommen ist. Jede der im folgenden gezeigten Grafiken stellt eine andere Altersgruppe dar und zeigt die Sterbefallzahlen der letzten sechs Jahre mit Zahlen für jede Kalenderwoche.
+
+Die Sterbefallzahlen der jüngeren Altersklassen sind erwartungsgemäß ziemlich durchschnittlich. Wie die Grafiken der Altersklassen
+ - 0 - 30
+ - 30 - 35
+ - 35 - 40
+ - 40 - 45
+ - 50 - 55
+
+zeigen sind hier keine außergewöhnlich abweichenden Sterbezahlen zu erkennen.
+In der Altersklasse
+
+ - 55 - 60
+
+sieht man erste Tendenzen überdurschnittlich steigender Todeszahlen gegen Ende 2020 und Anfang 2021. In den Alterklassen
+
+ - 60 - 65
+ - 65 - 70
+ - 70 - 75
+
+ist dann schon klar erkennbar, dass die Sterbefallzahlen Ende 2020 und Anfang 2021 außergewöhnlich hoch über denen der vergangenen Jahren liegen. Eine Übersterblichkeit, die vermutlich ausgelößt durch die hohen Corona-Sterbezahlen im Winter ist, kann bereits hier deutlich erkannt werden.
+
+In der Altersklasse
+
+  - 75 - 80
+
+ist sind ebenfalls steigende Zahlen gegen Winter erkennbar, überdurschnittlich hoch sind sie hier jedoch nicht.
+
+Anders sieht es dann bei dem ältesten Teil der Bevölkerung aus. In den Altersklassen
+
+ - 80 - 85
+ - 85 - 90
+ - 90 - 95
+ - 95 und mehr  
+
+ ist in jedem Diagramm klar zu erkennen wie im Winter 2020 / 2021 deutlich außergewöhnlich hohe Sterbefall-Zahlen auftreten. Teilweise üersteigen diese selbst die Sterbefall-Zahlen der Grippe-Welle aus 2018.
+
+
+
 ![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_0_30_Jahre.png)
 ![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_30_35_Jahre.png)
 ![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_35_40_Jahre.png)
@@ -22,11 +82,14 @@
 ![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_90_95_Jahre.png)
 ![link broken](pics/Sterbefallzahlen_nach_Kalenderwoche_Altersklasse_95_und_mehr_Jahre.png)
 
+Um alles noch einmal in einen Gesamtzusammenhang zu bringen habe ich abschließend noch einmal alle Sterbefall-Zahlen aller Jahre und aller Altersklassen in einem großen Diagramm zusammengefasst. Hier sieht man kurz und knapp noch einmal die Zusammenfassung der obigen Diagramme : In den jüngeren Altersklassen ist in den Jahren 2020 / 2021 keine außergewöhnlich hohe Sterblichkeit zu erkennen. Die ältesten Altersklassen zeigen wiederum im Winter 2020/2021 Sterbefall-Zahlen die klar den Durschnitt der vorherigen Jahre übersteigen. Man sieht daher eine deutliche Übersterblichkeit.
 
+![link broken](pics/Sterbefallzahlen_Gesamtuebersicht.png)
 
 **Quellen**:
  - https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/Tabellen/sonderauswertung-sterbefaelle.html;jsessionid=C57A8AA251F2B455171363AB572FC354.live722?nn=209016
-
+ - https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker
+ - https://de.wikipedia.org/wiki/Grippesaison_2017/2018
 
 # Behauptung 2: Die Max-Plank-Institut Studie ist falsch, weil Äpfel mit Birnen verglichen werden / weil die Zahlen absolut und die Bezugsgrößen nicht angepasst wurden.
 **Abschnitt im Video:** TODO
@@ -125,7 +188,7 @@ Laut der Studie "Tracking excess mortality across countries during the COVID-19 
 
 Laut der Studie "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe" die den Effekt von Lockdowns auf die Veränderung der Infektions - und Sterberaten untersucht, kommt man zu dem Schluss dass in Deutschland ohne Kontaktbeschränkungen allein in der "ersten Welle" zu einer Wahrscheinlichkeit von 95% zwischen 370.000 und 770.000 mehr Menschen gestorben wären.
 
-Die Übersterblichkeit in Schweden im Vergleich zu anderen Skandinavischen Ländern kann beispielsweise sehr gut in der Human Mortality Database untersucht werden. 
+Die Übersterblichkeit in Schweden im Vergleich zu anderen Skandinavischen Ländern kann beispielsweise sehr gut in der Human Mortality Database untersucht werden.
 
 ![link broken](pics/Human_Mortality_Database_Sweden_2020.png)
 ![link broken](pics/Human_Mortality_Database_Sweden_2021.png)
