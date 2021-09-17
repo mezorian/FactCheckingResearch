@@ -115,6 +115,12 @@ Ja, die Studie des Max-Plank-Instituts verwendet absolute Zahlen, insgesamt stel
 
 **Unsere Beurteilung:** Falsch
 
+Wie in den folgenden Unterpunkten erläutert wird, ist 
+
+ 1. es nicht so, dass es in Schweden keine Beschränkungen gegeben hat
+ 2. es nicht so, dass es in Schweden keine Übersterblichkeit gegeben hat, das Gegenteil ist tatsächlich der Fall
+ 3. es sehr zweifelhaft, dass das Land Schweden ohne weiteres mit dem Land Deutschland verglichen werden kann
+
 ## Behauptung 3.1: Man kann Schweden für einen Vergleich mit Deutschland heranziehen
 **Abschnitt im Video:** 26:19-29:00
 
