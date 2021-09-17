@@ -211,6 +211,9 @@ Diese Protokoll war nie als Dauerlösung gedacht, sondern als Brückentechnologi
 
 Hier wird beschrieben wie sich die Verlässlichkeit der PCR Tests messen lässt: https://www.charite.de/klinikum/themen_klinikum/themenschwerpunkt_coronavirus/faq_liste_zum_coronavirus/#c30695381
 
+**Quellen:**
+ - Analyse des "Konsortiums" das das Paper von Drosten analysiert im Twitter-Format (leider ohne weitere Quellen zu nennen) https://twitter.com/Felicea/status/1333773413610086400
+
 # Behauptung 6:
 **Abschnitt im Video:** 1:00:00 - 1:00:02
 
