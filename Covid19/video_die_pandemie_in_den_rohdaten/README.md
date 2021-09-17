@@ -3,7 +3,7 @@
 
 **Unsere Beurteilung:** Größtenteils Falsch / Richtige Zahlen falsch interpretiert
 
-Im ersten Teil des Videos kommt Marcel Barz zu dem Schluss, dass in den Sterbefall-Zahlen Deutschlands der letzten Jahre keine Corona-Pandemie zu erkennen ist. Allein, ohne sich die Zahlen genauer anzugucken, könnte man sich die Frage gestellen was die Sterbefall-Zahlen Deutschlands für eine Aussagekraft darüber haben, ob eine Weltweite Pandemie existiert oder nicht. Deutschland ist ein kleines Land, das eines der reichsten und fortschrittlichsten Länder der Welt ist. Verglichen mit ärmeren Ländern gibt es in Deutschland eine gute medizinische Versorgung und ein Sozial-System bzw. staatliche Sonderreglungen die Kurzarbeit ermöglichten und Gewinn-Ausfälle zumindest teilweise durch Hilfs-Zahlungen ausglichen. Solche sozialen Leistungen sind gerade in ärmeren Ländern nicht vorhanden gewesen. Das führte dazu, dass es hier nicht möglich war effektive Lockdowns durchzuführen und sich die Menschen erstens deutlich mehr anstecken konnten und zweitens, falls sich denn den Gang ins Krankenhaus überhaupt leisten konnten, in der meist deutlich schlechtere medizinischen Versorgung auch deutlich geringere Überlebenschancen hatten.
+Im ersten Teil des Videos kommt Marcel Barz zu dem Schluss, dass in den Sterbefall-Zahlen Deutschlands der letzten Jahre keine Corona-Pandemie zu erkennen sei. Allein, ohne sich die Zahlen genauer anzugucken, könnte man sich die Frage stellen, was die Sterbefall-Zahlen Deutschlands für eine Aussagekraft darüber haben, ob eine Weltweite Pandemie existiert oder nicht. Deutschland ist ein kleines Land, das eines der reichsten und fortschrittlichsten Länder der Welt ist. Verglichen mit ärmeren Ländern gibt es in Deutschland eine gute medizinische Versorgung und ein Sozial-System bzw. staatliche Sonderreglungen die Kurzarbeit ermöglichten und Gewinn-Ausfälle zumindest teilweise durch Hilfs-Zahlungen ausglichen. Solche sozialen Leistungen sind gerade in ärmeren Ländern nicht vorhanden gewesen. Das führte dazu, dass es hier nicht möglich war effektive Lockdowns durchzuführen und sich die Menschen erstens deutlich mehr anstecken konnten und zweitens, falls sich denn den Gang ins Krankenhaus überhaupt leisten konnten, in der meist deutlich schlechtere medizinischen Versorgung auch deutlich geringere Überlebenschancen hatten.
 
 Möchte man anhand von Sterbefallzahlen beurteilen ob eine Pandemie existiert oder nicht, sollte man sich daher auch Ländern anschauen in denen die gemeldeten Corona-Sterbefallzahlen deutlich höher waren als in dem erste Welt Land Deutschland. Hierzu ist es hilfreich sich die Aufstellung im "Coronavirus-excess-deaths-tracker" anzuschauen https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker .
 
@@ -84,6 +84,8 @@ Anders sieht es dann bei dem ältesten Teil der Bevölkerung aus. In den Altersk
 
 Um alles noch einmal in einen Gesamtzusammenhang zu bringen habe ich abschließend noch einmal alle Sterbefall-Zahlen aller Jahre und aller Altersklassen in einem großen Diagramm zusammengefasst. Hier sieht man kurz und knapp noch einmal die Zusammenfassung der obigen Diagramme : In den jüngeren Altersklassen ist in den Jahren 2020 / 2021 keine außergewöhnlich hohe Sterblichkeit zu erkennen. Die ältesten Altersklassen zeigen wiederum im Winter 2020/2021 Sterbefall-Zahlen die klar den Durschnitt der vorherigen Jahre übersteigen. Man sieht daher eine deutliche Übersterblichkeit.
 
+Barz kritisiert in seinem Video immer wieder, dass es nicht verlässlich sei mit absoluten Zahlen zu rechnen, da dies zu ungenauen Ergebnissen führe. Tatsächlich ist es in Wirklichkeit anders herum. Wie auch hier in https://correctiv.org/faktencheck/2021/03/02/keine-uebersterblichkeit-2020-samuel-eckerts-berechnungen-sind-laut-statistischem-bundesamt-methodisch-unzulaessig/ eine Stellungnahme des statistischen Bundes zitiert wird eignet sich „Das Konzept der Übersterblichkeit [...] auch auf Basis der absoluten Zahlen, um saisonale Entwicklungen einzuordnen. " Relative Zahlen so wie Barz sie berechnet mögen helfen ein genaueres Bild zu bekommen. Die von Barz genutzte Methode nur ganze Jahre zu betrachten führt jedoch dazu, dass die interessante Information der Sterbefallzahlen, nämlich die außergewöhnlichen saisonalen Schwankungen überhaupt nicht erkannt werden können.
+
 ![link broken](pics/Sterbefallzahlen_Gesamtuebersicht.png)
 
 **Quellen**:
@@ -92,11 +94,16 @@ Um alles noch einmal in einen Gesamtzusammenhang zu bringen habe ich abschließe
  - https://de.wikipedia.org/wiki/Grippesaison_2017/2018
 
 # Behauptung 2: Die Max-Plank-Institut Studie ist falsch, weil Äpfel mit Birnen verglichen werden / weil die Zahlen absolut und die Bezugsgrößen nicht angepasst wurden.
-**Abschnitt im Video:** TODO
+**Abschnitt im Video:** 25:00-26:19
 
-**Unsere Beurteilung:** TODO
+**Unsere Beurteilung:** Falsch
 
-TODO Zu prüfen Studie : Max Plank Institut Historisch hohe Übersterblichkeit
+Die im Video dargestellte Grafik des Max-Plank-Instituts stellt Sterbefallzahlen unterschiedlicher europäischer Länder dar. Im Video wird behauptet, man könne der Darstellung nicht trauen, da sie absolute und keine relativen Zahlen darstelle. Wie bereits in Behauptung 1 ausführlich dargelegt wurde, ist es sowohl mit relativen als auch mit absouten Zahlen möglich Sterbefall-Zahlen auszuwerten. Was jedoch tatäschlich einen Unterschied in der Auswertung macht ist ob man lediglich ganze Jahreswerte oder detaillierte Tages / Wochen oder mindestens Monatswerte auswertet. Da es sich bei den Sterbefallzahlen um Zahlen handelt die im Verlauf des Jahres sehr stark unterschiedlich sind, führt die Betrachtung von Jahres-Gesamt-Werten dazu, dass die Infomation für dich man sich eigentlich interessiert (nämlich die saisonalen überdurschnittlichen Schwankungen) nicht mehr erkannt werden können.
+Im Video sagt Barz wörtlich: "Das ist nicht seriös, so kann man keine Übersterblichkeit nachweisen" . Genau mit diesem Satz könnte man die im Video genutzte Methode beschreiben. Gerade in einem Land wie Deutschland mit relativ wenig Corona-Toten ist kaum ein Unterschied in den Jahres-Gesamt-Werten zu erkennen, da diese deutlich zu ungenau sind.
+
+Die hier gezeigte Studie des Max-Plank-Instituts wiederum betrachtet die Zahlen differenzierter. Es werden Zahlen in der Auflösung von einzelnen Kalenderwochen dargestellt. Für einen besseren Vergleich sind sogar im Hintergrund in grau Wert der vergangenen Jahre zu erkennen.
+
+Ja, die Studie des Max-Plank-Instituts verwendet absolute Zahlen, insgesamt stellt sie den Sachverhalt aber deutlich Wahreheitsgetreuer dar als die Rechnung im Video.
 
 **Quellen**:
  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246663
@@ -104,37 +111,37 @@ TODO Zu prüfen Studie : Max Plank Institut Historisch hohe Übersterblichkeit
  - https://correctiv.org/faktencheck/2021/03/02/keine-uebersterblichkeit-2020-samuel-eckerts-berechnungen-sind-laut-statistischem-bundesamt-methodisch-unzulaessig/
 
 # Behauptung 3: Die umfangreichen Maßnahmen sind nicht Grund dafür, dass die Übersterblichkeit gleich oder besser ist, denn in Schweden wo es nahezu keine Maßnahmen ist die Übersterblichkeit genauso wenig angestiegen.
-**Abschnitt im Video:**  - 28:48
+**Abschnitt im Video:**  26:19-29:00
 
-**Unsere Beurteilung:**
+**Unsere Beurteilung:** Falsch
 
 ## Behauptung 3.1: Man kann Schweden für einen Vergleich mit Deutschland heranziehen
-**Abschnitt im Video:**  - 28:48
+**Abschnitt im Video:** 26:19-29:00
 
 **Unsere Beurteilung:**  Eher falsch
 
 
-Meiner Meinung nach kann man Schweden und Deutschland nicht einfach vergleichen, ohne dass man sich vorher beide Länder konkret anguckt. Beide Länder sind in Sachen Bevölkerung, Größe aber auch in Bildung und Wohlstand durchaus sehr unterschiedlich gegenüber Deutschland.
+Wie im Folgenden genauer dargestellt kann man Schweden und Deutschland nicht einfach vergleichen, ohne dass man sich vorher beide Länder konkret anguckt. Beide Länder sind in Sachen Bevölkerung, Größe aber auch in Bildung und Wohlstand durchaus sehr unterschiedlich.
 Ein Vergleich mit beispielsweise anderen Skandinavischen Ländern wäre hier sicherlich sinnvoller gewesen.
 
-In Schweden leben viel viel weniger Menschen auf insgesamt mehr Raum. Die medizinische Versorgung in Schweden ist in etwa vergleichbar mit der in Deutschland. Allerdings wurde Schweden als "eines der am besten vorbereiteten Länder auf den Umgang mit einer Pandemie eingeschätzt". Hätte es also sehr viele schwere Verläufe in Schweden gegeben, wäre das Gesundheitssystem sehr wsl. lange nicht so schnell zusammen gebrochen wie in Deutschland.
+In Schweden leben viel viel weniger Menschen auf insgesamt mehr Raum. Die medizinische Versorgung in Schweden ist in etwa vergleichbar mit der in Deutschland. Allerdings wurde Schweden als eines der "am besten vorbereitesten" Länder auf den Umgang mit einer Pandemie eingeschätz" (https://de.wikipedia.org/wiki/Global_Health_Security-Index). Hätte es also sehr viele schwere Verläufe in Schweden gegeben, wäre das Gesundheitssystem sehr wsl. lange nicht so schnell zusammen gebrochen wie in Deutschland.
 
-In Schweden leben derzeit ca. 10,6 Millionen Menschen, als ca. 12,8% der Bevölkerung in Deutschland (~83,1 Millionen) oder etwas weniger als im Bundesland Baden-Würtemberg (~11,1 Millionen) )
-Das Land Schweden ist etwa 1,25 mal so groß wie Deutschland (Schweden 447435 Quadratkilometer vs. Deutschland 357581 Quadratkilometer)
+In Schweden leben derzeit ca. 10,6 Millionen Menschen, als ca. 12,8% der Bevölkerung in Deutschland (\~83,1 Millionen) oder etwas weniger als im Bundesland Baden-Würtemberg (\~11,1 Millionen) ).
+Das Land Schweden ist etwa 1,25 mal so groß wie Deutschland (Schweden 447435 Quadratkilometer vs. Deutschland 357581 Quadratkilometer).
 So mit ergibt sich das in Schweden ca. 23 Einwohner pro km² leben, während in Deutschland ziemlich genau zehnmal so viele Menschen leben (233 Einwohner pro km²).  
-Zwar ist Schweden insgesamt urbanisierter als Deutschland (es leben mehr Leute in Städten als auf dem Land). Allerdings sind die Städte in Schweden auch viel kleiner als in Deutschland. Zum Vergleich die größten 5 Städte in Schweden sind :
-	 - Stockholm ~1,77 Millionen Einwohner
-	 - Göteborg  ~0,66 Millionen Einwohner
-	 - Malmö     ~0,32 Millionen Einwohner
-	 - Uppsala   ~0,17 Millionen Einwohner
-	 - Västeras  ~0,13 Millionen Einwohner
+Zwar ist Schweden insgesamt urbanisierter als Deutschland (es leben mehr Leute in Städten als auf dem Land). Allerdings sind die Städte in Schweden auch viel kleiner als in Deutschland und Schweden hat die größte Anzahl Single-Haushalte in Europa. Zum Vergleich die größten 5 Städte in Schweden sind :
+	 - Stockholm \~1,77 Millionen Einwohner
+	 - Göteborg  \~0,66 Millionen Einwohner
+	 - Malmö     \~0,32 Millionen Einwohner
+	 - Uppsala   \~0,17 Millionen Einwohner
+	 - Västeras  \~0,13 Millionen Einwohner
 
 Die größten 5 Städte in Deutschland sind:
-	 - Berlin    ~3,66 Millionen Einwohner
-	 - Hamburg   ~1,85 Millionen Einwohner
-	 - München   ~1,49 Millionen Einwohner
-	 - Köln      ~1,08 Millionen Einwohner
-	 - Frankfurt am Main ~0,76 Millionen Einwohner
+	 - Berlin    \~3,66 Millionen Einwohner
+	 - Hamburg   \~1,85 Millionen Einwohner
+	 - München   \~1,49 Millionen Einwohner
+	 - Köln      \~1,08 Millionen Einwohner
+	 - Frankfurt am Main \~0,76 Millionen Einwohner
 
 Von den ersten 80 Großstädten in Deutschland unterschreitet keine die 0,1 Millionen Grenze.
 
@@ -150,10 +157,10 @@ Von den ersten 80 Großstädten in Deutschland unterschreitet keine die 0,1 Mill
  - https://de.statista.com/statistik/daten/studie/284879/umfrage/groesste-staedte-in-schweden/
  - https://de.statista.com/statistik/daten/studie/1353/umfrage/einwohnerzahlen-der-grossstaedte-deutschlands/
  - https://de.statista.com/statistik/daten/studie/249029/umfrage/urbanisierung-in-den-eu-laendern/
- - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj8q5Cc1YPzAhWd_rsIHUG7A0QQFnoECBMQAQ&url=https%3A%2F%2Fwww.regiodata.eu%2Fde%2Fnews%2F63-startseite%2Fnews%2F977-singlehaushalte-in-europa-die-schweden-wohnen-alleine&usg=AOvVaw2B-236yjW9SEOf2b2Be-ST
+ - https://www.regiodata.eu/de/news/63-startseite/news/977-singlehaushalte-in-europa-die-schweden-wohnen-alleine
 
-## Behauptung 3.2 Es gab in Schweden keine Corona-Schutz-Maßnahmen
-**Abschnitt im Video:**  - 28:48
+## Behauptung 3.2 Es gab in Schweden verglichen mit Deutschland keine Corona-Schutz-Maßnahmen
+**Abschnitt im Video:** 26:19-29:00
 
 **Unsere Beurteilung:**  Nur teilweise richtig
 
@@ -167,28 +174,44 @@ Zur zweite Wellen gab es dann auch in Schweden Kontaktbeschränkungen. Da die In
 Das Ziel hiermit der Wirtschaft einen Vorteil gegenüber anderen Ländern zu verschaffen, wurden offenbar aber auch verfehlt:
 "Schwedens Wirtschaft, die ja durch eine Strategie der lockeren Handhabe der Pandemie gestärkt werden sollte, schrumpfte von April bis Juni letzten Jahres weiter um 8,6% – was den größten vierteljährliche Rückgang im Land seit mindestens 40 Jahren bedeutet. Zum Vergleich: Die Wirtschaft Dänemarks schrumpfte in derselben Zeit um 7,4 %, die Norwegens um 5,1 % und die Finnlands nur um 3,2 %. Und auch die Arbeitslosenquote in Schweden stieg von 6,6% im März 2020 auf 9,5% im März 2021. Norwegen, Dänemark und Finnland verzeichneten alle einen geringeren Anstieg der Arbeitslosigkeit: im Durchschnitt um einen Prozentpunkt." Quelle : https://www.fr.de/politik/corona-schweden-sonderweg-gescheitert-coronavirus-herdenimmunitaet-sterblichkeit-pandemie-lockerungen-90934587.html#idAnchComments
 
+Grundsätzlich ist die Aussage, dass es Schweden verglichen mit Deutschland relativ wenig Beschränkungen gab somit zwar richtig, aber bei der im Video geführten Argumentation sollte man sich klar machen, dass es auch in Schweden zu Einschränkungen gekommen ist.
+
 **Quellen:**
  - https://www.fr.de/politik/corona-schweden-sonderweg-gescheitert-coronavirus-herdenimmunitaet-sterblichkeit-pandemie-lockerungen-90934587.html#idAnchComments
  - https://www.rnd.de/politik/schweden-beschliesst-corona-massnahmen-das-ende-des-sonderwegs-Y4DWEITCLRFPXLJMMDRPMBIMLI.html
 
 ## Behauptung 3.3: Es gab in Schweden auch keine höhere Sterblichkeit / Der schwedische Weg wäre erfolgreicher gewesen als in Deutschland
-**Abschnitt im Video:**  - 28:48
+**Abschnitt im Video:** 26:19-29:00
 
 **Unsere Beurteilung:** Eher falsch
 
 Generell geht man in Schweden eher davon aus, dass der schwedische Schweg kein Erfolg war.
 Die erste Welle verlief insgesamt eher schlechter als in den Nachbarländer oder zum Beispiel in Deutschland.
-Die
 
-“In der ersten Welle ist es den Schweden nicht gelungen, die vulnerablen Gruppen zu schützen”, fasst Andreas Radbruch im Frühjahr 2021 zusammen. “Vor allem mit Blick auf unsere Nachbarländer haben wir eine deutlich höhere Todesrate”, sagt Göran Hansson, Generalsekretär der Königlich-Schwedischen Akademie der Wissenschaften. “Und während der zweiten Welle zeigte sich, dass es noch keinen signifikanten Schutz durch eine natürlich erworbene Herdenimmunität gab.” Gezeigt habe sich laut Hansson, dass die Länder, die schnell reagiert haben – wie Norwegen und Finnland – bisher deutlich besser durch die Pandemie kommen. “Ein Fehler war, dass die Gesundheitsbehörden dachten, wir könnten eine Verbreitung des Virus in der Bevölkerung haben und gleichzeitig die alten Menschen schützen. Das hat nicht funktioniert.”
+In dem Artikel "Wie sinnvoll ist-der schwedische Corona Sonderweg" der Fact-Checker Quarks heißt es beispielsweise :
+“ 'In der ersten Welle ist es den Schweden nicht gelungen, die vulnerablen Gruppen zu schützen', fasst [der deutsche Immunologe Prof. Dr.] Andreas Radbruch  im Frühjahr 2021 zusammen. 'Vor allem mit Blick auf unsere Nachbarländer haben wir eine deutlich höhere Todesrate', sagt Göran Hansson, Generalsekretär der Königlich-Schwedischen Akademie der Wissenschaften. 'Und während der zweiten Welle zeigte sich, dass es noch keinen signifikanten Schutz durch eine natürlich erworbene Herdenimmunität gab.' Gezeigt habe sich laut Hansson, dass die Länder, die schnell reagiert haben – wie Norwegen und Finnland – bisher deutlich besser durch die Pandemie kommen. 'Ein Fehler war, dass die Gesundheitsbehörden dachten, wir könnten eine Verbreitung des Virus in der Bevölkerung haben und gleichzeitig die alten Menschen schützen. Das hat nicht funktioniert.' "
 
 Laut der Studie "The lockdown effect: A counterfactual for Sweden" geht man davon aus, das Schweden 75% der Infektionen und 38% der Tode durch Corona hätte verhindern können, wenn sie im ersten Halbjahr 2020 einen mindestens 9 wöchigen Lockdown verhängt hätten.
 
 Laut der Studie "Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset" gab es in Ländern mit hohen Kontaktbeschränkungen teilweise sogar eine reduzierte Sterblichkeit im Vergleich zu den Vorjahren, was der Studie darauf zurückzuführen sei, dass es durch den reduzierten Kontakt auch weniger Influenza / Grippe Tote gab. So wurde beispielsweise. Im Gegensatz dazu kann in Ländern in denen Corona sehr stark ausgebrochen ist eine Übersterblichkeit von mehr als 50% gemessen werden.
 
-Laut der Studie "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe" die den Effekt von Lockdowns auf die Veränderung der Infektions - und Sterberaten untersucht, kommt man zu dem Schluss dass in Deutschland ohne Kontaktbeschränkungen allein in der "ersten Welle" zu einer Wahrscheinlichkeit von 95% zwischen 370.000 und 770.000 mehr Menschen gestorben wären.
+Laut der Studie "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe" die den Effekt von Lockdowns auf die Veränderung der Infektions - und Sterberaten untersucht, kommt man zu dem Schluss dass in Deutschland ohne Kontaktbeschränkungen allein in der "ersten Welle" zu einer Wahrscheinlichkeit von 95% zwischen 370.000 und 770.000 mehr Menschen gestorben wären. Man kann also nicht einfach auf Grundlage der Aussage "In Schweden gab es wenig Beschränkungen und relativ wenig Tote" darauf schließen, dass man auch in Deutschland keine Beschränkungen gebraucht hätte. Wie die Studie zeigt, scheint eher das Gegenteil der Fall zu sein.
 
-Die Übersterblichkeit in Schweden im Vergleich zu anderen Skandinavischen Ländern kann beispielsweise sehr gut in der Human Mortality Database untersucht werden.
+Die in Video getätigte Aussage, es gäbe keine Übersterblichkeit in Schweden ist übrigens genauso falsch beurteilt worden wie auch schon zuvor die Übersterblichkeit von Schweden. Hätte Barz sich hier nicht erneut die Zeit damit vertrieben relative Zahlen zu berechnen, sondern hätte sich stattdessen detaillierte Wochebasierte Zahlen angeguckt, wäre er zu einem anderem Ergebnis gekommen.
+
+
+Die Übersterblichkeit in Schweden im Vergleich zu anderen Skandinavischen Ländern kann beispielsweise sehr gut in der Human Mortality Database untersucht werden. Die folgenden Grafiken zeigen die Sterbefall-Zahlen der Skandinavischen Länder
+
+ - Schweden
+ - Dänemark
+ - Finnland
+ - Norwegen
+
+für die Jahre 2020 und 2021 im Vergleich zu den Vorjahren. Fallzahlen die über den zu erwartenden Durchschnitt fallen sind hier rot gekennzeichnet und zeigen eine Übersterblichkeit in der entsprechenden Woche. Fallzahlen die unter den Durchschnitt der letzten Jahre fallen sind blau dargestellt und zeigen eine Untersterblichkeit.
+
+Die Grafiken Schwedens zeigen eine wirklich außerordentlich hohe Übersterblichkeit im Frühjahr des Jahres 2020 und eine relativ hohe Übersterblichkeit im Winter 2020 / 2021.
+
+Vergleicht man dies nun mit den Grafiken der anderen Skandinavischen Ländern, die alle deutlich striktere Kontaktbeschränkungen durchgeführt haben, erkennt man dass hier deutlich weniger überdurschnittlich hohe Sterbefallzahlen vorliegen. In jedem Land ist eine Übersterblichkeit in manchen Wochen zu erkennen, doch in keinem sind die Zahlen so ausgeprägt wie in Schweden.
 
 ![link broken](pics/Human_Mortality_Database_Sweden_2020.png)
 ![link broken](pics/Human_Mortality_Database_Sweden_2021.png)
@@ -198,13 +221,13 @@ Die Übersterblichkeit in Schweden im Vergleich zu anderen Skandinavischen Länd
 ![link broken](pics/Human_Mortality_Database_Finland_2021.png)
 ![link broken](pics/Human_Mortality_Database_Norway_2020.png)
 ![link broken](pics/Human_Mortality_Database_Norway_2021.png)
-Zum Vergleich die gleiche Grafik für das sehr stark von Corona getroffene Land Chile.
-![link broken](pics/Human_Mortality_Database_Chile_2020.png)
-![link broken](pics/Human_Mortality_Database_Chile_2021.png)
 
-Die Sterblichkeit in Deutschland wurde ja bereits zuvor bei Behauptung 1 analysiert um hier jedoch eine Vergleichbarkeit herzustellen sind im folgenden auch noch einmal die gleiche Grafiken für Deutschland dargestellt:
+
+Die Sterblichkeit in Deutschland wurde ja bereits zuvor in Behauptung 1 analysiert. Um hier jedoch eine Vergleichbarkeit herzustellen sind im Folgenden auch noch einmal die gleiche Grafiken für Deutschland dargestellt:
 ![link broken](pics/Human_Mortality_Database_Germany_2020.png)
 ![link broken](pics/Human_Mortality_Database_Germany_2021.png)
+
+Ähnlich wie auch in Schweden sind hier einige Wochen der Übersterblichkeit zu sehen. In Menge und Verteilung sind die Sterbefall-Zahlen mit denen aus Schweden nicht vergleichbar. Klar ist jedoch in beiden Ländern sind in den vergangenen zwei Jahren in manchen Zeiträumen deutlich überdurschnittlich viele Menschen gestorben. Wie in den oben genannten Quellen dargelegt wird, hätten es in Schweden deutlich weniger Tote sein können, wenn es mehr Beschränkungen gegeben hätte, während es in Deutschland deutlich mehr Tote hätten sein können, wenn es keine Beschränkungen gegeben hätte.
 
 **Quelle:**  
  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249732
@@ -215,7 +238,8 @@ Die Sterblichkeit in Deutschland wurde ja bereits zuvor bei Behauptung 1 analysi
  - https://www.aerzteblatt.de/nachrichten/119371/Schweden-meldet-hoechste-Zahl-an-Todesfaellen-seit-Spanischer-Grippe
  - https://www.deutschlandfunk.de/corona-pandemie-in-schweden-die-strategie-der-regierung-in.676.de.html?dram:article_id=497067
  - https://www.quarks.de/podcast/science-cops-mythos-schweden-alles-besser-im-corona-paradies/
- - https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&minPopulationFilter=1000000&time=2020-02-09..latest&facet=none&pickerSort=desc&pickerMetric=new_cases_smoothed_per_million&hideControls=true&Metric=Confirmed+deaths&Interval=Cumulative&Relative+to+Population=true&Align+outbreaks=false&country=DEU~FRA~SWE~DNK~NOR~NLD~ESP~ITA
+ -  https://www.quarks.de/gesundheit/medizin/wie-sinnvoll-ist-der-schwedische-corona-sonderweg/
+ - https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&minPopulationFilter=1000000&time=2020-02-09..latest&facet=none&pickerSort=desc&pickerMetric=new_cases_smoothed_per_million&hideControls=true&Metric=Confirmed+deaths&Interval=Cumulative&Relative+to+Population=true&Align+outbreaks=false&country=DEU\~FRA\~SWE\~DNK\~NOR\~NLD\~ESP\~ITA
  - https://www.rnd.de/gesundheit/schweden-kein-lockdown-keine-kontaktbeschrankungen-staatsvirologe-anders-tegnell-im-interview-BT2YYCQ3FBEUBHXRCLUQ2QXWUI.html
 
 
@@ -338,7 +362,7 @@ Dies hat die Ursache, dass die Zahlen viel zu unterschiedlich groß sind. Währe
 ![link broken](pics/Testzahlen_Anzahl_Testungen_VS_Anzahl_positiv_getestet_Z-Standardisiert.png)
 Wäre die Behauptung im Video richtig, würden wir hier zwei relativ ähnliche Kurven sehen, immer wenn die "Anzahl der Testungen" steigt müsste folglich auch die "Anzahl positiv getestet" steigen. Das scheint allerdings nicht der Fall zu sein. Beide Kurven unterliegen voneinander unabhängigen Schwankungen. In der Kurve der positiven Tests ist jede "Corona-Welle" Deutschlands deutlich zu erkennen. Die erste "Welle" sehen wir im März/April 2020. Die Anzahl der Testungen ist hier relativ gleichmäßig, trotz allem steigt allerdings die Anzahl positiver Tests um ein vielfaches.
 Im Sommer 2020 sehen wir dann sogar das genaue Gegenteil der Behauptung. Die Anzahl Testungen steigt angefangen im Juni kontinuierlich bis Ende Oktober. Die Anzahl positiver Tests jedoch bleibt bis Mitte September größtenteils konstant auf dem gleichen Level, es gibt nur einen sehr geringen Anstieg. Dann Ende September / Anfang Oktober sehen wir einen steilen Anstieg der positiven Tests, die sogenannte "2. Welle" beginnt. Die Zahlen steigen kontinuierlich bis in den Dezmber und erreichen um die Weihnachtszeit ihren Höhepunkt. Dann sinken sie langsam wieder ab um in der Mitte des Februars wieder auf ein "nomaleres Maß" zu sinken. Während dieser Zeit kann man weitere interessante Dinge sehen : Kurz vor der Weihnachtszeit werden deutlich mehr Tests durchgeführt. In der folge dessen steigen auch die Anzahl der positiven Tests. Nun könnte man meinen hier wäre der Beweis der Behauptung des Videos zu sehen. Doch schaut man sich nun einmal die Zeit direkt nach den Feiertagen an, kann man erkennen, dass die sehr viel weniger Tests durchgeführt werden, die Anzahl der positiven Tests allerdings nicht im gleichen Maße sinkt. Zwar sinkt sie, jedoch insgesamt viel weniger Stark als die Anzahl der Tests. Man könnte dies als ein Hinweis darauf deuten, dass sich während der Weihnachts-Feiertage viele Menschen angesteckt haben. Guckt man noch einmal zurück zum obigen Diagramm, dass den Positivenanteil in % darstellt, erkennt man genau das. Die höchsten Zahlen werden hier Ende Dezember, Anfang Januar dargestellt. Es gab also nicht nur mehr positive Tests, weil mehr getestet wurde, es haben sich zu dieser Zeit auch ein größer Anteil der getestetn Personen infiziert.
-Ähnliche Dinge sehen wir im Verlauf von 2021. Im März 2020 ist der Beginn der "dritten Welle" zu erkennen. Es werden insgesamt mehr Tests durchgefüht und es gibt aus mehr positive Tests. Doch dann Ende März testen sich plötzlich weniger Menschen, trotz allem werden aber mehr Menschen positiv getestet. Gleiches sieht man in dem obigen Diagram des Positivenanteils in %, dieser steigt beinahe aufs selbe Maß wie zu den Weihnachts-Feiertagen. Was zu dieser Zeit passiert ist, kann man nur Mutmaßen. Eine Theorie könnte die Verfügbarkeit der Antigen-"Schnelltests" sein. Vermutlich haben viele Menschen nicht mehr auf die teuren und langsamen PCR Tests zurückgegriffen, sondern sich mit Antigen-Tests testen lassen. Da allerdings nur PCR Tests in den offizielen Statistiken berücksichtigt werden, sinkt die Anzahl der durchgeführten Tests. Da wir allerdings zu dieser Zeit bereits mitten in der "dritten Welle" sind, ist die Anzahl der positiven Tests weiterhin (auch bei weniger Tests) stark gestiegen.
+Ähnliche Dinge sehen wir im Verlauf von 2021. Im März 2020 ist der Beginn der "dritten Welle" zu erkennen. Es werden insgesamt mehr Tests durchgeführt und es gibt aus mehr positive Tests. Doch dann Ende März testen sich plötzlich weniger Menschen, trotz allem werden aber mehr Menschen positiv getestet. Gleiches sieht man in dem obigen Diagram des Positivenanteils in %, dieser steigt beinahe aufs selbe Maß wie zu den Weihnachts-Feiertagen. Was zu dieser Zeit passiert ist, kann man nur Mutmaßen. Eine Theorie könnte die Verfügbarkeit der Antigen-"Schnelltests" sein. Vermutlich haben viele Menschen nicht mehr auf die teuren und langsamen PCR Tests zurückgegriffen, sondern sich mit Antigen-Tests testen lassen. Da allerdings nur PCR Tests in den offizielen Statistiken berücksichtigt werden, sinkt die Anzahl der durchgeführten Tests. Da wir allerdings zu dieser Zeit bereits mitten in der "dritten Welle" sind, ist die Anzahl der positiven Tests weiterhin (auch bei weniger Tests) stark gestiegen.
 Um das oben genannten noch weiter zu überprüfen habe ich zusätzlich aus den bestehenden Daten berechnet wie stark die Veränderung der einzelnen Zahlenreihen im Vergleich zur Vorwoche sind. Hiermit wollte ich überprüfen ob die Anzahl Testungen in die gleiche Richtung anwächst oder sich verringert wie die Anzahl positiver Tests. Wäre die Behauptung im Video korrekt müsste man in einem Diagramm erkennen können, dass sowohl die Anzahl Testungen als auch die Anzahl positiver Tests in ähnlichem Maße steigen oder fallen, mindestens Tendenzen sollten hierbei in die gleiche Richtung erkennbar sein.
 Statistisch korrekt müsste man das ganze wieder in der Z-standardisiert darstellen, dar dieses Beispiel jedoch ohne konkrete Zahlen recht schwer nachzuvollziehen ist sind im folgenden eine Z-Standardisierte Darstellung und eine Darstellung mit zwei Skalen (links und rechts) dargestellt:
 ![link broken](pics/Testzahlen_Veränderung_im_Vergleich_zur_Vorwoche_Anzahl_Testungen_VS_Anzahl_positiv_getestet.png)
