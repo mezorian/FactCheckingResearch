@@ -113,9 +113,9 @@ Ja, die Studie des Max-Plank-Instituts verwendet absolute Zahlen, insgesamt stel
 # Behauptung 3: Die umfangreichen Maßnahmen sind nicht Grund dafür, dass die Übersterblichkeit gleich oder besser ist, denn in Schweden wo es nahezu keine Maßnahmen ist die Übersterblichkeit genauso wenig angestiegen.
 **Abschnitt im Video:**  26:19-29:00
 
-**Unsere Beurteilung:** Falsch
+**Unsere Beurteilung:** Größtenteils falsch
 
-Wie in den folgenden Unterpunkten erläutert wird, ist 
+Wie in den folgenden Unterpunkten erläutert wird, ist
 
  1. es nicht so, dass es in Schweden keine Beschränkungen gegeben hat
  2. es nicht so, dass es in Schweden keine Übersterblichkeit gegeben hat, das Gegenteil ist tatsächlich der Fall
@@ -249,12 +249,36 @@ Die Sterblichkeit in Deutschland wurde ja bereits zuvor in Behauptung 1 analysie
  - https://www.rnd.de/gesundheit/schweden-kein-lockdown-keine-kontaktbeschrankungen-staatsvirologe-anders-tegnell-im-interview-BT2YYCQ3FBEUBHXRCLUQ2QXWUI.html
 
 
-# Behauptung 4:
+# Behauptung 4: Das Divi-Intensivregister ist nicht für die Bewertung der Pandemie-Situation geeignet, da unplausibel und künstlich manipuliert
 **Abschnitt im Video:** 29:00 - 53:35
 
-**Unsere Beurteilung:** TODO
+**Unsere Beurteilung:** Falsch
 
-## Behauptung 4.1 Die Meldung der Intensivpatienten ist nicht plausibel, da es mehr intensiv-tote gibt als generell gemeldete tote in deutschland
+Die Behauptungen die Barz in seinem Video aufstellt, sind nicht sonderlich neu. Vor ihm haben sich bereits viele andere Corona-Leugner auf die Zahlen des Intensivregisters gestüzt um damit ihre Falschaussagen scheinbar zu begründen. Wie schon seit Monaten aus verschiedenen Recherchen unterschiedlicher Institutionen und Pressemitteilungen des DIVIs hervorgeht sind die Daten des Intensivregister weder
+ - ungenau,
+ - noch unplausibel,
+ - noch künstlich manipuliert   
+
+In einer Pressemitteilungen des DIVIs wird das ganze wie folgt zusammengefasst:
+
+
+"Die DIVI **betont deshalb nochmals ausdrücklich: Das DIVI-Intensivregister und die hierin abgefragten Daten aller Intensivstationen mit Akutversorgung in Deutschland, rund 1.330 an der Zahl, sind und waren zu jeder Zeit belastbar – zur Bewertung der Pandemie und der Lage auf den Intensivstationen.**
+
+Als wissenschaftliche Fachgesellschaft und als Mediziner, stützen wir unsere Aussagen und unsere Meinungen nicht auf einzelne Daten, wie auch nicht auf eine einzige Quelle. Selbstverständlich gleichen wir Meldungen im DIVI-Intensivregister mit anderen Daten und weiteren Experten ab. Die DIVI hat keinen Hinweis darauf, dass eine bewusste Falschmeldung der Krankenhäuser erfolgt ist. Wir weisen den Verdacht entschieden zurück, Kliniken würden sich im großen Stil durch bewusste Falschmeldungen bereichern.
+
+So sind neben dem benannten Indikator der 'freien betreibbaren Betten', zahlreiche weitere im DIVI-Intensivregister selbst erfasst (freie Beatmungskapazitäten, freie ECMO-Kapazitäten, Bewertung der Situation nach Ampel-Prinzip). In der Zusammenschau ergibt sich so ein eindeutiges und umfassendes Bild der Lage. **Als aktive, am Patientenbett arbeitende Intensivmediziner, hat sich dieses Bild mit unserer, und der Wahrnehmung zahlreicher Kollegen, gedeckt. Die Intensivstationen waren voll, teilweise überlastet, die Zahl der schwerkranken COVID-Patienten stieg steil an, Patienten mussten überregional verlegt werden.**
+
+Unsere Realitätsberichte wiederum wurden in operativen Steuerungsgruppen des RKIs gemeinsam mit Bund und Ländern abgeglichen und bestätigt. So deckten sich die Zahlen aus dem Intensivregister stets mit Daten aus weiteren Surveillance-Systemen (z.B. mit IVENA). **Entsprechend kann durch diese zahlreichen Mechanismen und Kontrollinstanzen kein Betrug mit Intensivbetten im großen Stil stattgefunden haben. Die Lage war ernst. Maßnahmen wie der Lockdown haben ein weiteres Ansteigen der COVID-19-Patienten verhindert.
+
+Aufgrund der präzisen Daten des DIVI-Intensivregisters konnten wir präzise Prognosen erstellen, die sich sehr genau bewahrheitet haben.
+**Durch entsprechende politische Maßnahmen, auch mit Blick auf dieses Modell, stehen wir heute im internationalen Vergleich der Pandemiebewältigung gut da. Jetzt wieder zu behaupten, die Lage sei viel zu dramatisch dargestellt worden, erzeugt große Betroffenheit und ist eine Beleidigung der Ärzte und Pflegekräfte, die unter Einsatz des eigenen Lebens viele Monate im Ausnahmezustand gearbeitet und zahlreiche Menschen zurück ins Leben geholt haben. Was wir erleben, ist eine absolut historische Höchstbelastung der Intensivmedizin in Deutschland wie auch weltweit.**
+**
+" (Quelle : https://www.divi.de/presse/pressemeldungen/stellungnahme-das-divi-intensivregister-hat-zur-bewertung-der-lage-in-der-pandemie-stets-belastbare-zahlen-geliefert)
+
+**Quellen:**
+ - https://www.divi.de/presse/pressemeldungen/stellungnahme-das-divi-intensivregister-hat-zur-bewertung-der-lage-in-der-pandemie-stets-belastbare-zahlen-geliefert
+
+## Behauptung 4.1 Die Meldung der Intensivpatienten ist nicht plausibel, da es mehr Intensiv-Tote gibt als generell gemeldete Tote in deutschland
 **Abschnitt im Video:** 29:00 - 53:35
 
 **Unsere Beurteilung:** TODO
@@ -267,13 +291,24 @@ Die Sterblichkeit in Deutschland wurde ja bereits zuvor in Behauptung 1 analysie
 ## Behauptung 4.3 Die Anzahl der Intensivbetten wird über die Zeit geringer -> Es werden Betten abgebaut
 **Abschnitt im Video:** 29:00 - 53:35
 
-**Unsere Beurteilung:** TODO
+**Unsere Beurteilung:** Falsch
+
+Wie mittlerweile mehrfach von verschiedensten Seiten erklärt und bewiesen wurde, gab es keinen Abbau von Intensivbetten um
+
+-  künstlich die Auslastung in die Höhe zu treiben
+
+und / oder
+ - finanziell als Krankenhaus von einer hohen Auslastung der Intensivbetten zu profitieren
+
+Tatsächlich ging die Anzahl der gemeldeten Intensivbetten jedoch zur Zeit der Corona-Pandemie zurück. 
 
 Glaubwürdigkeit des Videos bekommt ein 6. ExoMagazinTV -> Verschwörungstheorien, Ufos, Aliens, Mensch von Aliens geschaffen. angeblich in der Bibel beschrieben
 
  Der gute Herr Tom Lausen, wurde als Sachverständiger von der AFD beauftragt, nur mal so am Rande ;)
 
 **Quellen:**
+ - https://www.merkur.de/leben/gesundheit/intensivbetten-abbau-deutschland-vorsicht-falschmeldung-klinik-corona-coronavirus-zr-90126027.html
+ - https://correctiv.org/faktencheck/2021/04/21/video-von-sahra-wagenknecht-intensivbetten-statistik-erneut-falsch-interpretiert/
  - https://www.bundestag.de/resource/blob/850806/7bd14581e33890e68fe7d57ee67d4cbf/19_14-2_13-2-_ESV-Tom-Lausen-_Langfriste-Konsequenzen-data.pdf
  - https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Intensivregister.html
  - Link zum Original-Video : https://www.bitchute.com/video/oqUtg6oPJBU/
