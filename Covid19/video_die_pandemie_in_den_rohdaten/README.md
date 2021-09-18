@@ -300,14 +300,20 @@ Wie mittlerweile mehrfach von verschiedensten Seiten erklärt und bewiesen wurde
 und / oder
  - finanziell als Krankenhaus von einer hohen Auslastung der Intensivbetten zu profitieren
 
-Tatsächlich ging die Anzahl der gemeldeten Intensivbetten jedoch zur Zeit der Corona-Pandemie zurück. 
+Tatsächlich ging die Anzahl der gemeldeten Intensivbetten jedoch zur Zeit der Corona-Pandemie zurück.
+Die Gründ hier für waren vielschichtig. Einige davon werden im Folgenden aufgelistet.
+
+ 1. Die gemeldete Anzahl der Intensivbetten bezieht nicht darauf wie viele Betten wirklich zur Verfügung stehen, sondern wie viele Betten real betreibbar sind. Ein Betreibbares Bett benötigt alles
+ 1. Zu Beginn der Pandemie war für die Krankenhäuser noch nicht klar, wie aufwendig die Behandlung eines Corona-Patienten sein wird.
 
 Glaubwürdigkeit des Videos bekommt ein 6. ExoMagazinTV -> Verschwörungstheorien, Ufos, Aliens, Mensch von Aliens geschaffen. angeblich in der Bibel beschrieben
 
  Der gute Herr Tom Lausen, wurde als Sachverständiger von der AFD beauftragt, nur mal so am Rande ;)
 
 **Quellen:**
+ - https://www.intensivregister.de/#/faq (Abschnitt : "Wie ist der Rückgang von Betten zu erklären" und Abschnitt : "Worauf ist bei der Interpretation und beim Vergleich der Zahlen zu auchten")
  - https://www.merkur.de/leben/gesundheit/intensivbetten-abbau-deutschland-vorsicht-falschmeldung-klinik-corona-coronavirus-zr-90126027.html
+ - https://correctiv.org/faktencheck/2020/12/03/nein-waehrend-der-pandemie-wurden-nicht-nonstop-intensivbetten-abgebaut/
  - https://correctiv.org/faktencheck/2021/04/21/video-von-sahra-wagenknecht-intensivbetten-statistik-erneut-falsch-interpretiert/
  - https://www.bundestag.de/resource/blob/850806/7bd14581e33890e68fe7d57ee67d4cbf/19_14-2_13-2-_ESV-Tom-Lausen-_Langfriste-Konsequenzen-data.pdf
  - https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Intensivregister.html
