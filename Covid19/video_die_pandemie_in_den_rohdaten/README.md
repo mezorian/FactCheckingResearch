@@ -1,3 +1,28 @@
+# Inhaltsverzeichnis
+* [Behauptung 1: Es gibt keine erhöhte Übersterblichkeit in Deutschland 2020](#behauptung-1-es-gibt-keine-erhöhte-übersterblichkeit-in-deutschland-2020)
+* [Behauptung 2: Die Max-Plank-Institut Studie ist falsch, weil Äpfel mit Birnen verglichen werden / weil die Zahlen absolut und die Bezugsgrößen nicht angepasst wurden.](#behauptung-2-die-max-plank-institut-studie-ist-falsch-weil-äpfel-mit-birnen-verglichen-werden--weil-die-zahlen-absolut-und-die-bezugsgrößen-nicht-angepasst-wurden)
+* [Behauptung 3: Die umfangreichen Maßnahmen sind nicht Grund dafür, dass die Übersterblichkeit gleich oder besser ist, denn in Schweden wo es nahezu keine Maßnahmen ist die Übersterblichkeit genauso wenig angestiegen.](#behauptung-3-die-umfangreichen-maßnahmen-sind-nicht-grund-dafür-dass-die-übersterblichkeit-gleich-oder-besser-ist-denn-in-schweden-wo-es-nahezu-keine-maßnahmen-ist-die-übersterblichkeit-genauso-wenig-angestiegen)
+   * [Behauptung 3.1: Man kann Schweden für einen Vergleich mit Deutschland heranziehen](#behauptung-31-man-kann-schweden-für-einen-vergleich-mit-deutschland-heranziehen)
+   * [Behauptung 3.2 Es gab in Schweden verglichen mit Deutschland keine Corona-Schutz-Maßnahmen](#behauptung-32-es-gab-in-schweden-verglichen-mit-deutschland-keine-corona-schutz-maßnahmen)
+   * [Behauptung 3.3: Es gab in Schweden auch keine höhere Sterblichkeit / Der schwedische Weg wäre erfolgreicher gewesen als in Deutschland](#behauptung-33-es-gab-in-schweden-auch-keine-höhere-sterblichkeit--der-schwedische-weg-wäre-erfolgreicher-gewesen-als-in-deutschland)
+* [Behauptung 4: Das Divi-Intensivregister ist nicht für die Bewertung der Pandemie-Situation geeignet, da unplausibel und künstlich manipuliert](#behauptung-4-das-divi-intensivregister-ist-nicht-für-die-bewertung-der-pandemie-situation-geeignet-da-unplausibel-und-künstlich-manipuliert)
+   * [Behauptung 4.1 Die Meldung der Intensivpatienten ist nicht plausibel, da es mehr Intensiv-Tote gibt als generell gemeldete Tote in deutschland](#behauptung-41-die-meldung-der-intensivpatienten-ist-nicht-plausibel-da-es-mehr-intensiv-tote-gibt-als-generell-gemeldete-tote-in-deutschland)
+   * [Behauptung 4.2 Die Wellen sind nicht in der Auslastung der Intensivbetten erkennbar](#behauptung-42-die-wellen-sind-nicht-in-der-auslastung-der-intensivbetten-erkennbar)
+   * [Behauptung 4.3 Die Anzahl der Intensivbetten wird über die Zeit geringer -&gt; Es werden Betten abgebaut](#behauptung-43-die-anzahl-der-intensivbetten-wird-über-die-zeit-geringer---es-werden-betten-abgebaut)
+* [Behauptung 5:](#behauptung-5)
+   * [Behauptung 5.1 : PCR Tests sind nicht aussagekräftig, weil sie nur auf die Existenz eines Teils der RNA Prüfen und nicht aussagekräftig sind, ob eine lebensfähiges Virus vorhanden ist](#behauptung-51--pcr-tests-sind-nicht-aussagekräftig-weil-sie-nur-auf-die-existenz-eines-teils-der-rna-prüfen-und-nicht-aussagekräftig-sind-ob-eine-lebensfähiges-virus-vorhanden-ist)
+   * [Behauptung 5.2 : Es gibt schwere Fehler in dem Papier zu den PCR Tests von Drosten (cormandrostenreview.com)](#behauptung-52--es-gibt-schwere-fehler-in-dem-papier-zu-den-pcr-tests-von-drosten-cormandrostenreviewcom)
+* [Behauptung 6:](#behauptung-6)
+   * [6.1 Inzidenz ist nicht aussagekräftig, da nur die positiven Tests gezählt werden, es wäre sinnvoller ein Verhältnis zwischen positiven und negativen Tests zu berechnen](#61-inzidenz-ist-nicht-aussagekräftig-da-nur-die-positiven-tests-gezählt-werden-es-wäre-sinnvoller-ein-verhältnis-zwischen-positiven-und-negativen-tests-zu-berechnen)
+   * [Behauptung 6.2 Die positiven Test-Anzahlen sind nur gestiegen weil auch mehr getestet wurde](#behauptung-62-die-positiven-test-anzahlen-sind-nur-gestiegen-weil-auch-mehr-getestet-wurde)
+* [Behauptung 7:](#behauptung-7)
+* [Behauptung 8:](#behauptung-8)
+* [Behauptung 9:](#behauptung-9)
+* [Behauptung 10: Man müsse 125 Personen impfen um einen zu schützen.](#behauptung-10-man-müsse-125-personen-impfen-um-einen-zu-schützen)
+* [Behauptung 11 : Die einschlägigen Medien benutzen die selben Daten interpretieren sie nur anders](#behauptung-11--die-einschlägigen-medien-benutzen-die-selben-daten-interpretieren-sie-nur-anders)
+* [Behauptung 12: Er wird systematisch von der Politik getäuscht](#behauptung-12-er-wird-systematisch-von-der-politik-getäuscht)
+
+
 # Behauptung 1: Es gibt keine erhöhte Übersterblichkeit in Deutschland 2020
 **Abschnitt im Video:** 13:23 - 25:00
 
