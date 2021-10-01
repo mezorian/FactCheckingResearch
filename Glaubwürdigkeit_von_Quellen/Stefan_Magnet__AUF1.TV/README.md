@@ -24,7 +24,7 @@ Bau das amerikanische Militär nach der Kapitulation inhaftierte SS-Angehörige 
  - hält die Anschläge vom 11. September in den USA für inszeniert
  - steht der FPÖ (das österreichischen Pendant der AFD) sehr nahe. Öffentlich weißt die FPÖ eine Nähe zu Magnet allerdings zurück (vermutlich um ihren eigenen Wahlkampf nicht zu gefährden)
 
-Quellen:
+**Quellen :**
  - https://twitter.com/magnetstefan
  - https://www.facebook.com/profile.php?id=100010157743900
  - https://t.me/s/stefanmagnet
@@ -37,4 +37,3 @@ Quellen:
  - https://de.wikipedia.org/wiki/Bund_freier_Jugend
  - https://de.wikipedia.org/wiki/Blut-und-Boden-Ideologie
  - (Achtung diese Quelle bringt offensichtlich ebenfalls einen politischen Hintergrund mit und sollte daher ebenso kritisch hinterfragt werden) : https://www.stopptdierechten.at/2020/05/19/stefan-magnets-tiefbraunes-hoch-zum-muttertag/
- 
