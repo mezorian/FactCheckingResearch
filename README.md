@@ -1,4 +1,4 @@
-# FakeNewsResearch
+# FactCheckingResearch
 ![link broken](pics/xkcd_wikipedian_protester.png)
 
 Source : [https://xkcd.com/285]
